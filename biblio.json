@@ -12,8 +12,8 @@
         },
         {
             "type": "op",
-            "aoid": "CreatePartsFromList",
-            "id": "sec-createpartsfromlist"
+            "aoid": "DeconstructPattern",
+            "id": "sec-deconstructpattern"
         },
         {
             "type": "op",
@@ -49,6 +49,11 @@
             "type": "op",
             "aoid": "FormatNumeric",
             "id": "sec-formatnumber"
+        },
+        {
+            "type": "op",
+            "aoid": "SingularRelativeTimeUnit",
+            "id": "sec-singularrelativetimeunit"
         },
         {
             "type": "clause",
